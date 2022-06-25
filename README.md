@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manavpareek
 - 👀 I’m interested in mostly java and developement field.
 - 🌱 I’m currently learning data structures in java.
-- 💞️ I’m looking to collaborate on MNC's
+- 💞️ I’m looking to collaborate with MNC's
 - 📫 How to reach me simply mail on manavpareek2000@gmail.com
 
 <!---
